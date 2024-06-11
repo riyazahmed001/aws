@@ -1,0 +1,12 @@
+{
+    "httpMethod": "GET",
+    "path": "/",
+    "queryStringParameters": {
+        "trainName": "train_1"
+    },
+    "headers": {
+        "header1": "value1"
+    },
+    "body": "Request body here",
+    "isBase64Encoded": false
+}
